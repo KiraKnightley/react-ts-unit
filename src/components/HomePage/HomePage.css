@@ -1,0 +1,24 @@
+.homepage h1 {
+    margin-top: 32px;
+    margin-left: 32px;
+    font-size: 32px;
+    line-height: 100%;
+}
+
+.homepage_title {
+    margin-top: 24px;
+    margin-bottom: 22px;
+    margin-left: 34px;
+    color: #828282;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.homepage_list {
+    margin-left: 22px;
+}
+
+#available {
+    margin-left: 32px;
+}
